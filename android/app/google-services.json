@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "559821976435",
+    "firebase_url": "https://rcd-app-bfa6e.firebaseio.com",
+    "project_id": "rcd-app-bfa6e",
+    "storage_bucket": "rcd-app-bfa6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559821976435:android:0eeabc991ac9b1b2828b06",
+        "android_client_info": {
+          "package_name": "com.rcd.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559821976435-supr5d56v619q03mmdvgcgcs35rdt61b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4L3I6-NOiauFmppj_ZrNRNlwmWFPIQwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559821976435-supr5d56v619q03mmdvgcgcs35rdt61b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "559821976435-sobe0rk8qa5k8fhcf0lb38jd9j8evimt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rcd"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559821976435:android:7000553c3cecf639828b06",
+        "android_client_info": {
+          "package_name": "com.rentex.rcd.staging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559821976435-supr5d56v619q03mmdvgcgcs35rdt61b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4L3I6-NOiauFmppj_ZrNRNlwmWFPIQwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559821976435-supr5d56v619q03mmdvgcgcs35rdt61b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "559821976435-sobe0rk8qa5k8fhcf0lb38jd9j8evimt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rcd"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

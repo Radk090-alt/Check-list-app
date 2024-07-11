@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<resources>
+    <string name="app_name">RCD</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">bBh8eXJU6EOEVFPCU2TOtcLs-aZkUkHzKKZJD</string>
+</resources>
